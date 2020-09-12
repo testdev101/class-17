@@ -1,0 +1,26 @@
+nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: #ccc5c5;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #111;
+    transition: all 0.4s ease;
+}
+.menu ul li a{
+	font-weight: 700;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #fff;
+}
+.progress-section{
+	padding: 40px 0;
+	background-color: #ccc5c5;
+}
+.spinner-section{
+	padding: 50px 0;
+}
+.tooltip-section{
+	padding: 50px 0;
+	background-color: #ccc5c5;
+}
